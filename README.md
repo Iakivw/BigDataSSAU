@@ -1,2 +1,3 @@
-# BigDataSSAU
-Lab works on the subject of Big Data. Samara State Aerospace University 2025
+# Лабораторные работы по курсу Большие Данные. Самарский университет имени С.П. Королева 2025
+# 6404 Верютин Михаил
+
